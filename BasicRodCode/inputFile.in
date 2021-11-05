@@ -1,0 +1,38 @@
+# Input File.
+# if the line starts in '#' it gets ignored
+
+# Also ignores blank lines
+
+# Number of Nodes
+80
+
+# Number of Solve Increments
+1000
+
+# Width (m)
+0.02
+
+# Height (m)
+0.055
+
+# Length (m)
+2.0
+
+# Youngs Modulus
+10000000.0
+
+# Unscaled Gravitational Force
+1.0
+
+# Force on end of Beam
+0.0 10.0 0.0
+
+
+# Solver Readout Option
+1
+
+# Folder Name
+data
+
+# File Name
+dataout

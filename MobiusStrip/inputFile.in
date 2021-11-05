@@ -1,0 +1,58 @@
+# Input File.
+# if the line starts in '#' it gets ignored
+
+# Also ignores blank lines
+
+# Number of Nodes
+100
+
+# Number of Solve Increments
+5000
+
+# Simulation Time T
+1.0
+
+# Light Intensity
+0
+
+# Light Propagation Direction
+0.0 0.0 -1.0
+
+# w0
+6.28318530718
+#3.14159
+
+# eta0
+0.0
+
+# viscosity value
+0000000.0
+
+# Width of ribbon (normalized)
+#0.318309886183791
+0.031830988618379
+#0.25464790894
+#0.05
+
+
+# Initial Bending Modulus
+1.0 .00 0.00 0.01
+#1.0 0.001 0.000 0.0
+
+# Unscaled Gravitational Force
+000
+
+# Force on end of Beam
+0.0 0.0 0.0
+
+# Number of Threads to solve on. 0 means serial
+0
+
+# Solver Readout Option
+1
+
+# Folder Name
+data3
+
+# File Name
+dataout

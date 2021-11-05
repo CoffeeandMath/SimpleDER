@@ -1,0 +1,10 @@
+Buckling/ObjectOrientedConstrained/data4/*.vtk
+Buckling/ObjectOrientedConstrained/data7/*.vtk
+OvercurvedRing/CMakeFiles
+OvercurvedRing/CMakeCache.txt
+OvercurvedRing/cmake_install.cmake
+OvercurvedRing/lib*.a
+OvercurvedRing/data
+OvercurvedRing/data2
+OvercurvedRing/dataall
+MobiusStrip/lib*.a
